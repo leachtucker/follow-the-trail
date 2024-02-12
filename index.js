@@ -1,5 +1,3 @@
-// run `node index.js` in the terminal
-
 const axios = require('axios');
 
 followTheTrail('https://www.letsrevolutionizetesting.com/challenge');
